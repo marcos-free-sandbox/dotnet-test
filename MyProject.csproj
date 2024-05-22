@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="UmbracoCms.Core" Version="8.18.12" />
   </ItemGroup>
 
 </Project>
